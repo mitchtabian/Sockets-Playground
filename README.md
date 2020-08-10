@@ -1,4 +1,7 @@
 # Sockets Playground
+**This is a work in progress**
+
+
 Playground for learning sockets on android.
 
 
